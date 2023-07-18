@@ -8,7 +8,7 @@ Dự án đầu tay trên github của danghai193 :3
 Hệ điều hành gợi ý sử dụng: Windows 10, Windows 11
 
 ### Tải xuống:
-Bấm vào [đây](https://github.com/danghai193/Listening_Checker/releases)
+Bấm vào [đây](https://github.com/danghai193/Writing_Checker/releases)
 
 ### Yêu cầu trước khi sử dụng
 0. Có kết nối mạng
